@@ -23,4 +23,11 @@ h2 {
   border-bottom: 2px solid #ddd;
   padding-bottom: 5px;
 }
+.project-card {
+  background: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+}
 
