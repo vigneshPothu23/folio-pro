@@ -36,5 +36,20 @@ h2 {
   transform: translateY(-5px);
  
 }
+.project-links {
+  margin-top: 10px;
+}
+
+.project-links a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: #2563eb;
+  font-weight: bold;
+}
+
+.project-links a:hover {
+  text-decoration: underline;
+}
+
 
 
