@@ -50,6 +50,19 @@ h2 {
 .project-links a:hover {
   text-decoration: underline;
 }
+@media (max-width: 768px) {
+  header {
+    padding: 25px;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  .project-card {
+    margin: 15px 0;
+  }
+}
 
 
 
